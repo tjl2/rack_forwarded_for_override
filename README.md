@@ -1,6 +1,6 @@
 # Passenger Rack 'Forwarded For' Middleware
 
-This Rack middleware is for use on Rails 3 apps that are using the [SSL port redirection Chef recipe](http://github.com/tjl2/ssl_port_redirect) on AppCloud and is required if you are using *Passenger* as your stack.
+This Rack middleware is for use on Rails apps that are using the [SSL port redirection Chef recipe](http://github.com/tjl2/ssl_port_redirect) on AppCloud and is required if you are using *Passenger* as your stack.
 
 ## Installation
 
